@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prism1:PrismApplicationBase
+    x:Class="PrismSizeTest.App"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="http://prismlibrary.com"
+    xmlns:prism1="clr-namespace:Prism;assembly=Prism.Forms">
+
+    <prism1:PrismApplicationBase.Resources>
+
+        <!--  Application resource dictionary  -->
+
+    </prism1:PrismApplicationBase.Resources>
+
+</prism1:PrismApplicationBase>
